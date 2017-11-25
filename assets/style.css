@@ -1,0 +1,4 @@
+.jumbotron-fluid {
+	background-image: url("./images/starWarsBackground.jpg");
+	background-size: cover;
+}
